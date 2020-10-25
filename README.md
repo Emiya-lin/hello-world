@@ -4,3 +4,7 @@ This is a descriptive file to interpret the aim of directory [learn-git].
 I write a memo named "Git-memo" in ~/jupyter/Git-memo.ipynb. I also watch videos to review Git instructions.
 
 I will I can continue to modify this document and do well in this tool.
+
+The follow lines is to test "git log" command, so they are just meaningless.
+
+There are occasionally short windows in time when incredibly important things get invented that shape the lives of humans for hundreds for years.
