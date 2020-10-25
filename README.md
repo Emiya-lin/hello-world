@@ -13,3 +13,5 @@ These events are impossible to anticipate, and the inventors, the participants, 
 
 The development of the Macintosh computer was one of these events, and it has changed our lives forever.
 
+I am in the hot-fix branch now, and I add this message"Don't forget to finish your matrix homework".
+
