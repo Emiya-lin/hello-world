@@ -10,3 +10,6 @@ The follow lines is to test "git log" command, so they are just meaningless.
 There are occasionally short windows in time when incredibly important things get invented that shape the lives of humans for hundreds for years.
 
 These events are impossible to anticipate, and the inventors, the participants, are often working not for reasons of money, but for the personal satisfication of making something great.
+
+The development of the Macintosh computer was one of these events, and it has changed our lives forever.
+
