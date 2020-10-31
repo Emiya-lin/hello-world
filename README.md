@@ -20,3 +20,5 @@ I am in the hot-fix branch now, and I add this message"Don't forget to finish yo
 The solution of line 18 is, ```git push hello-world master --allow-unrelated-histories
 If you operate ```git clone ......```, then "not allow unrelated histories" won't be shown. The option --allow-unrelated-histories allows you merge two independent libs.
 
+2020/10/31, Neuron network should be learned.
+
