@@ -21,4 +21,4 @@ The solution of line 18 is, ```git push hello-world master --allow-unrelated-his
 If you operate ```git clone ......```, then "not allow unrelated histories" won't be shown. The option --allow-unrelated-histories allows you merge two independent libs.
 
 2020/10/31, Neuron network should be learned.
-
+It has two weeks to take multivariable statistal analysis exam, you'd better review it right now.
