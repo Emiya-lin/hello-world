@@ -15,3 +15,8 @@ The development of the Macintosh computer was one of these events, and it has ch
 
 I am in the hot-fix branch now, and I add this message"Don't forget to finish your matrix homework".
 
+```git push hello-world master``` failed, because in that time this remote hello-world lib has nothing to do with my local lib.
+
+The solution of line 18 is, ```git push hello-world master --allow-unrelated-histories
+If you operate ```git clone ......```, then "not allow unrelated histories" won't be shown. The option --allow-unrelated-histories allows you merge two independent libs.
+
