@@ -15,3 +15,5 @@ The development of the Macintosh computer was one of these events, and it has ch
 
 I am in the hot-fix branch now, and I add this message"Don't forget to finish your matrix homework".
 
+```git push hello-world master``` failed, because in that time this remote hello-world lib has nothing to do with my local lib.
+
